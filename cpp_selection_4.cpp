@@ -1,4 +1,4 @@
-// 4. Write a code that will input for 2 numbers then identify which of the two is the largest.
+// 4. Write a C++ code that will input for 2 numbers then identify which of the two is the largest.
 
 #include <iostream>
 using namespace std;
