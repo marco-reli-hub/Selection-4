@@ -1,5 +1,4 @@
-      *    4. Write a code that will input for 2 numbers then
-      *       identify which of the two is the largest.
+      *    4. Write a COBOL code that will input for 2 numbers then identify which of the two is the largest.
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. BIGGEST-NUMBER-PROGRAM.
